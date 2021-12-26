@@ -1,2 +1,2 @@
 # SinifGe-meDurmu
-Pratik - Sınıfı Geçme Durumu
+Pratik - Sınıfı Gecme Durumu
